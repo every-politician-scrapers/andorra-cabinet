@@ -1,10 +1,12 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
-Q65038596,Ester Vilarrubla i Escales,Ester Vilarrubla i Escales,female,1965-01-01T00:00:00Z,9,https://www.govern.ad/el-govern,Q67200458,ministre d'Educació i Joventut,Q65038596-20EA0368-ABC8-4BAF-BC79-A2B3074B5470
-Q88194125,Joan Martínez Benazet,Joan Martínez Benazet,male,1954-01-01T00:00:00Z,9,,Q88898726,ministre de Salut,Q88194125-e5bce7ee-41b0-3832-1752-0c96f6748948
-Q56403525,Jordi Gallardo Fernàndez,Jordi Gallardo Fernàndez,male,1976-03-23T00:00:00Z,11,,Q63985662,"ministre de Presidència, Economia i Empresa",Q56403525-0bc79833-4bd9-913a-dd3b-b568edec98b5
+Q100732936,Eric Jover Comas,Èric Jover,male,,,https://www.govern.ad/el-govern,Q66061766,Ministre de Finances i Portaveu,Q100732936-D149123A-4E6E-4279-8279-8BA154482C60
+Q65038596,Ester Vilarrubla Escales,Ester Vilarrubla i Escales,female,1965-01-01T00:00:00Z,9,https://www.govern.ad/el-govern,Q67200458,Ministra d'Educació i Ensenyament Superior,Q65038596-20EA0368-ABC8-4BAF-BC79-A2B3074B5470
+Q88194125,Joan Martínez Benazet,Joan Martínez Benazet,male,1954-01-01T00:00:00Z,9,https://www.govern.ad/el-govern,Q88898726,Ministre de Salut,Q88194125-e5bce7ee-41b0-3832-1752-0c96f6748948
+Q56403525,Jordi Gallardo Fernàndez,Jordi Gallardo Fernàndez,male,1976-03-23T00:00:00Z,11,https://www.govern.ad/el-govern,Q63985662,"Ministre de Presidència, Economia i Empresa",Q56403525-0bc79833-4bd9-913a-dd3b-b568edec98b5
+Q107981821,Jordi Torres Falcó,Jordi Torres Falcó,,,,https://www.govern.ad/el-govern,Q67187719,Ministre de Turisme i Telecomunicacions,Q107981821-3B3253DF-3536-4113-AB56-394F1D7BE614
+Q107981779,Josep Maria Rossell Pons,Josep Maria Rossell Pons,,,,https://www.govern.ad/el-govern,Q63869694,Ministre de Justícia i Interior,Q107981779-2B0D3A8A-D133-45CD-B715-F62F8DBEEC1A
 Q56403529,Judith Pallarés Cortés,Judith Pallarés Cortés,female,1972-08-05T00:00:00Z,11,,Q63986276,ministre de Funció Pública i Reforma de l'Administració,Q56403529-fcb7ff79-4de9-0f65-cf3c-a0b7b198069c
-Q55955802,Maria Ubach Font,Maria Ubach Font,female,1973-06-14T00:00:00Z,11,,Q4294893,ministre d'Afers Exteriors,Q55955802-2759c1af-44e6-a26a-ba2e-b5dbc146b012
-Q58009929,Sílvia Calvó Armengol,Sílvia Calvó Armengol,female,1969-10-15T00:00:00Z,11,,Q90333454,"Ministre de de Medi Ambient, Agricultura i Sostenibilitat d'Andorra",Q58009929-4AFE25CB-D5BD-4416-AB98-EA8B771BA025
-Q21012236,Sílvia Riva González,Sílvia Riva González,female,1979-03-18T00:00:00Z,11,,Q64165272,ministre de Cultura i Esports d'Andorra,Q21012236-b8263fe9-4c0e-5582-eb73-53e724ba54f6
-Q21001195,Xavier Espot Zamora,Xavier Espot Zamora,male,1979-10-30T00:00:00Z,11,,Q634322,Cap de Govern del Principat d'Andorra,Q21001195-38137e99-4687-b880-174c-2ccc71d741f8
-Q100732936,Èric Jover,Èric Jover,male,,,https://www.govern.ad/el-govern,Q66061766,ministre de Finances,Q100732936-D149123A-4E6E-4279-8279-8BA154482C60
+Q55955802,Maria Ubach Font,Maria Ubach Font,female,1973-06-14T00:00:00Z,11,https://www.govern.ad/el-govern,Q4294893,Ministra d'Afers Exteriors,Q55955802-2759c1af-44e6-a26a-ba2e-b5dbc146b012
+Q58009929,Sílvia Calvó Armengol,Sílvia Calvó Armengol,female,1969-10-15T00:00:00Z,11,https://www.govern.ad/el-govern,Q90333454,"Ministra de Medi Ambient, Agricultura i Sostenibilitat",Q58009929-4AFE25CB-D5BD-4416-AB98-EA8B771BA025
+Q21012236,Sílvia Riva González,Sílvia Riva González,female,1979-03-18T00:00:00Z,11,https://www.govern.ad/el-govern,Q64165272,Ministra de Cultura i Esports,Q21012236-b8263fe9-4c0e-5582-eb73-53e724ba54f6
+Q107981776,Víctor Filloy Franco,Víctor Filloy Franco,,,,https://www.govern.ad/el-govern,Q107981777,Ministre de Territori i Habitatge,Q107981776-4E34EC67-A6E2-4B78-9139-8F271B0A53ED
