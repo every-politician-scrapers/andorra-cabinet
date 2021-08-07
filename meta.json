@@ -1,7 +1,12 @@
 {
+    "jurisdiction": {
+      "name": "Andorra",
+      "id": "Q228"
+    },
     "cabinet": {
       "id": "Q65938327",
-      "start": "2019-05-22"
+      "start": "2019-05-22",
+      "parent": "Q5419813"
     },
     "source": {
         "url":   "https://www.govern.ad/el-govern",
