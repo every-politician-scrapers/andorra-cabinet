@@ -1,0 +1,10 @@
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q77609201,Q77609201,1994-02-01,10,,,1994-12-01,10,,,Q5419813,Executive Council of Andorra,,,,,Q79485543,Q79485543,,,,
+,Q79485543,Q79485543,1994-12-01,10,,,1997-03-01,10,,,Q5419813,Executive Council of Andorra,,,Q77609201,Q77609201,Q79501812,Q79501812,,,,
+,Q79501812,Q79501812,1997-04-01,10,,,2001-04-01,10,,,Q5419813,Executive Council of Andorra,,,Q79485543,Q79485543,Q79786830,Q79786830,,,,
+,Q79786830,Q79786830,2001-04-01,10,,,2005-05-01,10,,,Q5419813,Executive Council of Andorra,,,Q79501812,Q79501812,Q83740872,Q83740872,,,,
+,Q83740872,Q83740872,2005-06-01,10,,,2009-06-01,10,,,Q5419813,Executive Council of Andorra,,,Q79786830,Q79786830,Q3248595,Q3248595,,,,
+,Q3248595,Q3248595,2009-06-01,10,,,2011-05-01,10,,,Q5419813,Executive Council of Andorra,,,Q83740872,Q83740872,Q11924539,Q11924539,,,,
+,Q11924539,Q11924539,2011-05-01,10,,,2015-04-01,10,,,Q5419813,Executive Council of Andorra,,,Q3248595,Q3248595,Q20104848,Q20104848,,,,
+,Q20104848,Q20104848,2015-04-01,10,,,2019-05-01,10,,,Q5419813,Executive Council of Andorra,,,Q11924539,Q11924539,Q65938327,Zamora Cabinet,,,,
+,Q65938327,Zamora Cabinet,2019-05-01,10,,,,,,,Q5419813,Executive Council of Andorra,,,Q20104848,Q20104848,,,,,,
