@@ -1,0 +1,79 @@
+{
+  "title": "Jordi Gallardo",
+  "pageID": 67667257,
+  "categories": [
+    "Living people",
+    "1976 births",
+    "Government ministers of Andorra",
+    "University of Lleida alumni",
+    "Liberal Party of Andorra politicians",
+    "21st-century politicians",
+    "Place of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jordi Gallardo (born 23 March 1976) is the Minister of Economy in Andorra.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Andorra"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Jordi Gallardo"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Jordi Gallardo.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Jordi_Gallardo.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Jordi_Gallardo.jpg",
+          "caption": "Jordi Gallardo",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "date": "July 2021",
+          "template": "one source"
+        },
+        {
+          "date": "August 2021",
+          "template": "expand spanish"
+        }
+      ],
+      "references": [
+        {
+          "title": "Andorra MOE",
+          "url": "https://www.govern.ad/ministeri-de-presidencia-economia-i-empresa",
+          "website": "Govern.ad",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "andorra-bio-stub"
+        }
+      ]
+    }
+  ]
+}
