@@ -45,6 +45,10 @@
       ],
       "templates": [
         {
+          "description": "Andorran politician",
+          "template": "short description"
+        },
+        {
           "date": "July 2021",
           "template": "one source"
         },
