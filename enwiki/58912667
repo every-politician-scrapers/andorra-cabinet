@@ -252,59 +252,6 @@
           "inline": {}
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        }
-      ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "id": "scalvoarmengol",
-          "template": "twitter"
-        },
-        {
-          "template": "authority control"
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "File of Consell General",
-            "links": [
-              {
-                "text": "File of Consell General",
-                "type": "external",
-                "site": "http://www.consellgeneral.ad/es/el-consell-general/consellers-generals/m-i-sra-silvia-calvo-armengol"
-              }
-            ]
-          }
-        ],
-        [
-          {
-            "text": "File of Consell General",
-            "links": [
-              {
-                "text": "File of Consell General",
-                "type": "external",
-                "site": "http://www.consellgeneral.ad/es/el-consell-general/consellers-generals/m-i-sra-silvia-calvo-armengol"
-              }
-            ]
-          }
-        ]
-      ]
     }
   ]
 }

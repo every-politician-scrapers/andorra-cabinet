@@ -234,43 +234,6 @@
           "inline": {}
         }
       ]
-    },
-    {
-      "title": "See also",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Executive Council of Andorra",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Executive Council of Andorra"
-              }
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "andorranprimeministers"
-        },
-        {
-          "template": "andorra-bio-stub"
-        }
-      ]
     }
   ]
 }
