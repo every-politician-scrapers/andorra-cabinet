@@ -18,11 +18,16 @@
         {
           "sentences": [
             {
-              "text": "Jordi Gallardo (born 23 March 1976) is the Minister of Economy in Andorra.",
+              "text": "Jordi Gallardo Born in the Andorran capital on March 23 of 1976.",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Andorra"
+                  "page": "March 23"
+                },
+                {
+                  "text": "1976",
+                  "type": "internal",
+                  "page": "1976"
                 }
               ],
               "formatting": {
@@ -30,17 +35,84 @@
                   "Jordi Gallardo"
                 ]
               }
+            },
+            {
+              "text": "He holds a degree in History from the Universitat de Lleida (UlD), and a Master of Business Administration (MBA) from the IESE Business School in the city of Barcelona.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "History"
+                },
+                {
+                  "type": "internal",
+                  "page": "Universitat de Lleida (UlD)"
+                },
+                {
+                  "type": "internal",
+                  "page": "IESE Business School"
+                },
+                {
+                  "type": "internal",
+                  "page": "Barcelona"
+                }
+              ]
             }
           ]
-        }
-      ],
-      "images": [
+        },
         {
-          "file": "File:Jordi Gallardo (retallat).png",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Jordi_Gallardo_(retallat).png?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Jordi_Gallardo_(retallat).png",
-          "caption": "Jordi Gallardo",
-          "links": []
+          "sentences": [
+            {
+              "text": "In the world of politics, he is a member of Liberals d'Andorra party which he has chaired since 2014 and where he has also held the position of organizational secretary, as well as the presidency of the youth section."
+            },
+            {
+              "text": "In 2005, he took up his first position as Director of Cultural Heritage and Language Policy."
+            },
+            {
+              "text": "Then, between 2007 and 2009, he was Secretary of State for Cultural Policy."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2009, he decided to develop his professional career in the private sector, where he held the position of deputy director at Via Moda Andorra until 2015."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the 2015 Parliamentary Elections in Andorra, he won a seat in the Consell General d'Andorra."
+            },
+            {
+              "text": "He has been Deputy Chairman and Chairman of the Liberal Parliamentary Group, Member of the Special Committee on Monitoring and Risk Prevention for Financial Stability, Member of the Legislative Committee on Health and the Environment, Member of the Legislative Committee on Home Affairs, Vice-President of the Legislative Committee on Finance and Budget, and Member of the Legislative Committee on Foreign Policy."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On May 21st of 2019, he was appointed by the Head of Government, Xavier Espot Zamora, as the new Minister of the Presidency, Economy and Business of the Principality of Andorra.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "May 21st"
+                },
+                {
+                  "type": "internal",
+                  "page": "Government"
+                },
+                {
+                  "type": "internal",
+                  "page": "Xavier Espot Zamora"
+                },
+                {
+                  "type": "internal",
+                  "page": "Principality of Andorra"
+                }
+              ]
+            }
+          ]
         }
       ],
       "templates": [
@@ -55,15 +127,59 @@
         {
           "date": "August 2021",
           "template": "expand spanish"
+        },
+        {
+          "df": "y",
+          "year": "1976",
+          "month": "03",
+          "day": "23",
+          "template": "birth date and age"
         }
       ],
-      "references": [
+      "infoboxes": [
         {
-          "title": "Andorra MOE",
-          "url": "https://www.govern.ad/ministeri-de-presidencia-economia-i-empresa",
-          "website": "Govern.ad",
-          "template": "citation",
-          "type": "web"
+          "name": {
+            "text": "Jordi Gallardo Fernàndez"
+          },
+          "image": {
+            "text": "Jordi Gallardo Férnandez.png"
+          },
+          "office": {
+            "text": "Minister of the Presidency, Economy and Business of the Principality of Andorra",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Principality of Andorra"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Jordi Gallardo Fernàndez"
+          },
+          "birth_date": {
+            "text": "March 23, 1976"
+          },
+          "birth_place": {
+            "text": "[[Andorra la Vella\n]], Andorra",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Andorra"
+              }
+            ]
+          },
+          "party": {
+            "text": "Liberals d'Andorra",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Liberals d'Andorra"
+              }
+            ]
+          },
+          "website": {
+            "text": "https://www.jordigallardo.com/"
+          }
         }
       ]
     }
