@@ -92,19 +92,38 @@
         {
           "sentences": [
             {
-              "text": "On May 21st of 2019, he was appointed by the Head of Government, Xavier Espot Zamora, as the new Minister of the Presidency, Economy and Business of the Principality of Andorra.",
+              "text": "He was the Liberals of Andorra's candidate for head of Government in the 2019 Andorran parliamentary election.",
+              "links": [
+                {
+                  "text": "2019 Andorran parliamentary election",
+                  "type": "internal",
+                  "page": "2019 Andorran parliamentary election"
+                }
+              ]
+            },
+            {
+              "text": "After the negotiations to form a government, Gallardo joins the Executive as a result of the coalition agreement formed by: Liberal Party of Andorra, Democrats for Andorra and Ciutadans Compromesos party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Liberal Party of Andorra"
+                },
+                {
+                  "type": "internal",
+                  "page": "Democrats for Andorra"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On May 21st of 2019, he was appointed as the new Minister of the Presidency, Economy and Business of the Principality of Andorra.",
               "links": [
                 {
                   "type": "internal",
                   "page": "May 21st"
-                },
-                {
-                  "type": "internal",
-                  "page": "Government"
-                },
-                {
-                  "type": "internal",
-                  "page": "Xavier Espot Zamora"
                 },
                 {
                   "type": "internal",
