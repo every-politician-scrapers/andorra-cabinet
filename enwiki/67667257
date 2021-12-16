@@ -179,8 +179,12 @@
             "text": "March 23, 1976"
           },
           "birth_place": {
-            "text": "[[Andorra la Vella\n]], Andorra",
+            "text": "Andorra la Vella, Andorra",
             "links": [
+              {
+                "type": "internal",
+                "page": "Andorra la Vella"
+              },
               {
                 "type": "internal",
                 "page": "Andorra"
