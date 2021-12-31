@@ -88,6 +88,13 @@
           "template": "birth date and age"
         },
         {
+          "list": [
+            "Cornèlia Sicília Ibáñez",
+            "Francesc Vives i Pons"
+          ],
+          "template": "unbulleted list"
+        },
+        {
           "post-noms": "GCC",
           "template": "post-nominal styles"
         },
@@ -139,17 +146,11 @@
                 "page": "Joan Martí i Alanis"
               }
             ]
-          },
-          "father": {
-            "text": "Francesc Vives i Pons"
-          },
-          "mother": {
-            "text": "Cornèlia Sicília Ibáñez"
           }
         },
         {
           "honorific-prefix": {
-            "text": "His Excellency The Most Reverend Monsignor",
+            "text": "His Excellency The Most Reverend Archbishop",
             "links": [
               {
                 "text": "His Excellency",
@@ -163,18 +164,19 @@
               },
               {
                 "type": "internal",
-                "page": "Monsignor"
+                "page": "Archbishop",
+                "anchor": "Archbishops ad personam"
               }
             ]
           },
           "name": {
             "text": "Joan-Enric Vives"
           },
-          "honorific-suffix": {
-            "text": "Archbishop-Bishop of Urgell",
+          "title": {
+            "text": "Bishop of Urgell",
             "links": [
               {
-                "text": "Archbishop-Bishop of Urgell",
+                "text": "Bishop of Urgell",
                 "type": "internal",
                 "page": "Roman Catholic Diocese of Urgell"
               }
@@ -193,6 +195,21 @@
               }
             ]
           },
+          "appointed": {
+            "text": "25 June 2001 (Coadjutor)"
+          },
+          "term_start": {
+            "text": "12 May 2003"
+          },
+          "predecessor": {
+            "text": "Joan Martí i Alanis",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Joan Martí i Alanis"
+              }
+            ]
+          },
           "ordination": {
             "text": "24 September 1974"
           },
@@ -207,6 +224,9 @@
                 "page": "Ricardo María Carles Gordó"
               }
             ]
+          },
+          "rank": {
+            "text": "Archbishop ad personam"
           },
           "previous_post": {
             "text": "Coadjutor Bishop of Urgell (2001–2003) Auxiliary Bishop of Barcelona (1993–2001) Titular Bishop of Nona (1993–2001)",
@@ -259,6 +279,9 @@
           },
           "coat_of_arms": {
             "text": "Coat of arms of Joan Enric Vives i Sicília.svg"
+          },
+          "parents": {
+            "text": "Cornèlia Sicília Ibáñez\n\nFrancesc Vives i Pons"
           }
         },
         {
