@@ -122,7 +122,7 @@
       "infoboxes": [
         {
           "birth_date": {
-            "text": "1965 (age 56)"
+            "text": "1965 (age 57)"
           },
           "birth_place": {
             "text": "La Seu d'Urgell, Catalonia, Spain",
@@ -162,48 +162,6 @@
               }
             ]
           }
-        }
-      ],
-      "references": [
-        {
-          "date": "2019-05-21",
-          "title": "Decret del 21-5-2019 pel qual el cap de Govern nomena els membres del Govern i els seus càrrecs respectius.",
-          "trans-title": "Decree of 21-5-2019 by which the Head of Government appoints the members of the Government and their respective positions.",
-          "url": "https://www.bopa.ad/bopa/031045/Pagines/GN20190521_16_33_43.aspx",
-          "journal": "Butlletí Oficial del Principat d'Andorra",
-          "language": "Catalan",
-          "template": "citation",
-          "type": "journal"
-        },
-        {
-          "last": "Raventós",
-          "first": "Lídia",
-          "last2": "Blasco",
-          "first2": "Joan Josep",
-          "date": "2019-05-21",
-          "title": "Vilarrubla assumirà Educació, Filloy Afers Socials i Canals, Turisme",
-          "language": "Catalan",
-          "trans-title": "Vilarrubla will take over Education, Filloy Social Affairs, and Canals Tourism",
-          "work": "el Periòdic",
-          "url": "https://www.elperiodic.ad/noticia/72002/vilarrubla-assumira-educacio-filloy-afers-socials-i-canals-turisme",
-          "access-date": "2021-07-04",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Ministeri d'Educació i Ensenyament Superior",
-          "trans-title": "Minister of Education and Higher Education",
-          "url": "https://www.govern.ad/altres/item/220-andorra-participa-al-consell-plenari-de-la-ctp",
-          "url-status": "live",
-          "access-date": "2021-07-05",
-          "website": "Government of Andorra",
-          "language": "ca",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "July 2021",
-          "template": "citation needed"
         }
       ]
     }

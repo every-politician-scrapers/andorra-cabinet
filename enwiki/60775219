@@ -202,37 +202,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Decret del 16-10-2011 de nomenament del Sr. Xavier Espot Zamora com a secretari d’Estat de Justícia i Interior.",
-          "url": "https://www.bopa.ad/bopa/023066/Pagines/72552.aspx",
-          "website": "bopa.ad",
-          "access-date": "19 May 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Xavier Espot jura el càrrec de cap de Govern",
-          "url": "https://www.govern.ad/cap-de-govern/item/10360-xavier-espot-jura-el-carrec-de-cap-de-govern",
-          "website": "govern.ad",
-          "access-date": "19 May 2019",
-          "language": "ca-es",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]

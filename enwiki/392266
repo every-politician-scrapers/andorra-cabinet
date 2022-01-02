@@ -322,24 +322,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://infovaticana.com/2013/11/07/enric-vives-sicilia/",
-          "title": "¿Quién es... Enric Vives Sicilia?",
-          "date": "2013-11-07",
-          "website": "InfoVaticana",
-          "language": "es",
-          "access-date": "2020-04-07",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
