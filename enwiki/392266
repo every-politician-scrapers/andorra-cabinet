@@ -257,8 +257,20 @@
             "text": "10 July 2003"
           },
           "regent": {
-            "text": "Emmanuel Macron",
+            "text": "Jacques Chirac Nicolas Sarkozy François Hollande Emmanuel Macron",
             "links": [
+              {
+                "type": "internal",
+                "page": "Jacques Chirac"
+              },
+              {
+                "type": "internal",
+                "page": "Nicolas Sarkozy"
+              },
+              {
+                "type": "internal",
+                "page": "François Hollande"
+              },
               {
                 "type": "internal",
                 "page": "Emmanuel Macron"
