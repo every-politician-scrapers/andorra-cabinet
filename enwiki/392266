@@ -19,7 +19,7 @@
         {
           "sentences": [
             {
-              "text": "Joan-Enric Vives Sicília (born 24 July 1949) is a Spanish cleric, who serves as bishop of Urgell, a Catholic diocese, and ex officio as co-prince of Andorra.",
+              "text": "Joan-Enric Vives Sicília (born 24 July 1949) is a Spanish cleric, who serves as Bishop of Urgell since 2003, and is therefore the Co-Prince of Andorra.",
               "links": [
                 {
                   "text": "Spanish",
@@ -27,40 +27,38 @@
                   "page": "Spaniard"
                 },
                 {
-                  "text": "bishop of Urgell",
+                  "text": "Bishop of Urgell",
                   "type": "internal",
                   "page": "Diocese of Urgell"
                 },
                 {
-                  "text": "Catholic",
                   "type": "internal",
-                  "page": "Catholic Church"
-                },
-                {
-                  "text": "diocese",
-                  "type": "internal",
-                  "page": "diocese"
-                },
-                {
-                  "text": "ex officio",
-                  "type": "internal",
-                  "page": "ex officio"
-                },
-                {
-                  "text": "co-prince of Andorra",
-                  "type": "internal",
-                  "page": "co-prince of Andorra"
+                  "page": "Co-Prince of Andorra"
                 }
               ],
               "formatting": {
                 "bold": [
                   "Joan-Enric Vives Sicília"
-                ],
-                "italic": [
-                  "ex officio"
                 ]
               }
             },
+            {
+              "text": "This makes him the joint-Head of State along with the President of France.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Head of State"
+                },
+                {
+                  "type": "internal",
+                  "page": "President of France"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
               "text": "He holds the rank of archbishop."
             }
