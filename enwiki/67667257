@@ -8,7 +8,7 @@
     "University of Lleida alumni",
     "Liberal Party of Andorra politicians",
     "21st-century politicians",
-    "Place of birth missing (living people)"
+    "People from Andorra la Vella"
   ],
   "sections": [
     {
@@ -18,8 +18,12 @@
         {
           "sentences": [
             {
-              "text": "Jordi Gallardo (born 23 March 1976) is the Minister of Economy in Andorra.",
+              "text": "Jordi Gallardo (born 23 March 1976 in Andorra La Vella) is the Minister of Economy in Andorra.",
               "links": [
+                {
+                  "type": "internal",
+                  "page": "Andorra La Vella"
+                },
                 {
                   "type": "internal",
                   "page": "Andorra"
