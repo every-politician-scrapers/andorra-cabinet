@@ -254,8 +254,11 @@
           "coronation": {
             "text": "10 July 2003"
           },
+          "reg-type": {
+            "text": "Co-Prince"
+          },
           "regent": {
-            "text": "Jacques Chirac Nicolas Sarkozy François Hollande Emmanuel Macron",
+            "text": "Jacques Chirac (until 2007) Nicolas Sarkozy (2007–2012) François Hollande (2012–2017) Emmanuel Macron (2017–)",
             "links": [
               {
                 "type": "internal",
@@ -274,9 +277,6 @@
                 "page": "Emmanuel Macron"
               }
             ]
-          },
-          "reg-type": {
-            "text": "Co-Prince"
           },
           "predecessor": {
             "text": "Joan Martí i Alanis",
