@@ -1,332 +1,37 @@
 {
-  "title": "Joan Enric Vives i Sicília",
-  "pageID": 392266,
-  "categories": [
-    "1949 births",
-    "21st-century Roman Catholic archbishops in Spain",
-    "20th-century Roman Catholic bishops in Spain",
-    "21st-century Princes of Andorra",
-    "Bishops of Urgell",
-    "Living people",
-    "Clergy from Barcelona",
-    "Grand Crosses of the Order of Christ (Portugal)"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Joan-Enric Vives Sicília (born 24 July 1949) is a Spanish cleric, who serves as Bishop of Urgell since 2003, and is therefore the Co-Prince of Andorra.",
-              "links": [
-                {
-                  "text": "Spanish",
-                  "type": "internal",
-                  "page": "Spaniard"
-                },
-                {
-                  "text": "Bishop of Urgell",
-                  "type": "internal",
-                  "page": "Diocese of Urgell"
-                },
-                {
-                  "type": "internal",
-                  "page": "Co-Prince of Andorra"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Joan-Enric Vives Sicília"
-                ]
-              }
-            },
-            {
-              "text": "This makes him the joint-Head of State along with the President of France.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Head of State"
-                },
-                {
-                  "type": "internal",
-                  "page": "President of France"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He holds the rank of archbishop."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "March 2014",
-          "template": "use dmy dates"
-        },
-        {
-          "list": [
-            "Vives",
-            "Sicília"
-          ],
-          "lang": "Spanish",
-          "template": "family name hatnote"
-        },
-        {
-          "year": "1949",
-          "month": "7",
-          "day": "24",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "Cornèlia Sicília Ibáñez",
-            "Francesc Vives i Pons"
-          ],
-          "template": "unbulleted list"
-        },
-        {
-          "post-noms": "GCC",
-          "template": "post-nominal styles"
-        },
-        {
-          "transcription": "ʒuˈan ənˈriɡ ˈbiβəz i siˈsili.ə",
-          "template": "ipa"
-        }
-      ],
-      "infoboxes": [
-        {
-          "embed": {
-            "text": "yes"
-          },
-          "title": {
-            "text": "Bishop of Urgell",
-            "links": [
-              {
-                "text": "Bishop of Urgell",
-                "type": "internal",
-                "page": "Roman Catholic Diocese of Urgell"
-              }
-            ]
-          },
-          "see": {
-            "text": "Urgell",
-            "links": [
-              {
-                "text": "Urgell",
-                "type": "internal",
-                "page": "Roman Catholic Diocese of Urgell"
-              }
-            ]
-          },
-          "appointed": {
-            "text": "25 June 2001 (Coadjutor)"
-          },
-          "term_start": {
-            "text": "12 May 2003"
-          },
-          "predecessor": {
-            "text": "Joan Martí i Alanis",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Joan Martí i Alanis"
-              }
-            ]
-          },
-          "ordination": {
-            "text": "24 September 1974"
-          },
-          "consecration": {
-            "text": "5 September 1993"
-          },
-          "consecrated_by": {
-            "text": "Ricardo María Carles Gordó",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ricardo María Carles Gordó"
-              }
-            ]
-          },
-          "rank": {
-            "text": "Archbishop ad personam"
-          },
-          "previous_post": {
-            "text": "Coadjutor Bishop of Urgell (2001–2003) Auxiliary Bishop of Barcelona (1993–2001) Titular Bishop of Nona (1993–2001)",
-            "links": [
-              {
-                "text": "Barcelona",
-                "type": "internal",
-                "page": "Roman Catholic Archdiocese of Barcelona"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "July 24, 1949"
-          },
-          "birth_place": {
-            "text": "Barcelona, Catalonia, Spain",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Barcelona"
-              },
-              {
-                "type": "internal",
-                "page": "Catalonia"
-              },
-              {
-                "text": "Spain",
-                "type": "internal",
-                "page": "Francoist Spain"
-              }
-            ]
-          },
-          "religion": {
-            "text": "Roman Catholic Church",
-            "links": [
-              {
-                "text": "Roman Catholic Church",
-                "type": "internal",
-                "page": "Catholicism"
-              }
-            ]
-          },
-          "motto": {
-            "text": "Parare vias Domini",
-            "formatting": {
-              "italic": [
-                "Parare vias Domini"
-              ]
-            }
-          },
-          "coat_of_arms": {
-            "text": "Coat of arms of Joan Enric Vives i Sicília.svg"
-          },
-          "parents": {
-            "text": "Cornèlia Sicília Ibáñez\n\nFrancesc Vives i Pons"
-          }
-        },
-        {
-          "name": {
-            "text": "His Excellency The Most Reverend Archbishop Joan-Enric Vives",
-            "links": [
-              {
-                "text": "His Excellency",
-                "type": "internal",
-                "page": "Excellency"
-              },
-              {
-                "text": "The Most Reverend",
-                "type": "internal",
-                "page": "Most Reverend"
-              },
-              {
-                "type": "internal",
-                "page": "Archbishop",
-                "anchor": "Archbishops ad personam"
-              }
-            ]
-          },
-          "image": {
-            "text": "Mons. Vives (30612833490).jpg"
-          },
-          "succession": {
-            "text": "Co-Prince of Andorra",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Co-Prince of Andorra"
-              }
-            ]
-          },
-          "reign": {
-            "text": "12 May 2003 – present"
-          },
-          "coronation": {
-            "text": "10 July 2003"
-          },
-          "reg-type": {
-            "text": "Co-Prince"
-          },
-          "regent": {
-            "text": "Jacques Chirac (until 2007) Nicolas Sarkozy (2007–2012) François Hollande (2012–2017) Emmanuel Macron (2017–)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacques Chirac"
-              },
-              {
-                "type": "internal",
-                "page": "Nicolas Sarkozy"
-              },
-              {
-                "type": "internal",
-                "page": "François Hollande"
-              },
-              {
-                "type": "internal",
-                "page": "Emmanuel Macron"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Joan Martí i Alanis",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Joan Martí i Alanis"
-              }
-            ]
-          }
-        },
-        {
-          "name": {
-            "text": "Joan-Enric Vives Sicília"
-          },
-          "image": {
-            "text": "Coat of Arms of High Authorities of Andorra.svg"
-          },
-          "image_size": {
-            "text": "80px"
-          },
-          "dipstyle": {
-            "text": "The Most Reverend",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Most Reverend"
-              }
-            ]
-          },
-          "offstyle": {
-            "text": "Your Excellency",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Your Excellency"
-              }
-            ]
-          },
-          "relstyle": {
-            "text": "Monsignor",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Monsignor"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "embed": "yes",
+  "title": "Bishop of Urgell",
+  "see": "Urgell",
+  "appointed": "25 June 2001 (Coadjutor)",
+  "term_start": "12 May 2003",
+  "predecessor": "Joan Martí i Alanis",
+  "ordination": "24 September 1974",
+  "consecration": "5 September 1993",
+  "consecrated_by": "Ricardo María Carles Gordó",
+  "rank": "Archbishop ad personam",
+  "previous_post": "Coadjutor Bishop of Urgell (2001–2003) Auxiliary Bishop of Barcelona (1993–2001) Titular Bishop of Nona (1993–2001)",
+  "birth_date": "July 24, 1949",
+  "birth_place": "Barcelona, Catalonia, Spain",
+  "religion": "Roman Catholic Church",
+  "motto": "Parare vias Domini",
+  "coat_of_arms": "Coat of arms of Joan Enric Vives i Sicília.svg",
+  "parents": "Cornèlia Sicília Ibáñez\n\nFrancesc Vives i Pons"
+}
+{
+  "name": "His Excellency The Most Reverend Archbishop Joan-Enric Vives",
+  "image": "Mons. Vives (30612833490).jpg",
+  "succession": "Co-Prince of Andorra",
+  "reign": "12 May 2003 – present",
+  "coronation": "10 July 2003",
+  "reg-type": "Co-Prince",
+  "regent": "Jacques Chirac (until 2007) Nicolas Sarkozy (2007–2012) François Hollande (2012–2017) Emmanuel Macron (2017–)",
+  "predecessor": "Joan Martí i Alanis"
+}
+{
+  "name": "Joan-Enric Vives Sicília",
+  "image": "Coat of Arms of High Authorities of Andorra.svg",
+  "image_size": "80px",
+  "dipstyle": "The Most Reverend",
+  "offstyle": "Your Excellency",
+  "relstyle": "Monsignor"
 }
