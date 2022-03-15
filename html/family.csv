@@ -1,0 +1,41 @@
+id,name,relationship,relative,relativename
+Q157,François Hollande,child,Q16783695,Julien Hollande
+Q157,François Hollande,child,Q16783697,Flora Hollande
+Q157,François Hollande,child,Q16783700,Thomas Hollande
+Q157,François Hollande,child,Q16783701,Clémence Hollande
+Q157,François Hollande,father,Q16354870,Georges Hollande
+Q157,François Hollande,mother,Q16354867,Nicole Tribert
+Q157,François Hollande,partner,Q230539,Valérie Trierweiler
+Q157,François Hollande,partner,Q435925,Julie Gayet
+Q157,François Hollande,partner,Q81923,Ségolène Royal
+Q157,François Hollande,sibling,Q16354873,Philippe Hollande
+Q21001195,Xavier Espot Zamora,father,Q2597802,Xavier Espot Miró
+Q2105,Jacques Chirac,child,Q15529521,Laurence Chirac
+Q2105,Jacques Chirac,child,Q2977194,Claude Chirac
+Q2105,Jacques Chirac,father,Q16354565,François Chirac
+Q2105,Jacques Chirac,mother,Q16354830,Marie-Louise Valette
+Q2105,Jacques Chirac,spouse,Q431115,Bernadette Chirac
+Q2597802,Xavier Espot Miró,child,Q21001195,Xavier Espot Zamora
+Q2996190,Contxita Marsol Riart,father,Q1377919,Rossend Marsol Clua
+Q3052772,Emmanuel Macron,father,Q28838206,Jean-Michel Macron
+Q3052772,Emmanuel Macron,mother,Q28838264,Françoise Noguès
+Q3052772,Emmanuel Macron,relative,Q28842880,Tiphaine Auzière
+Q3052772,Emmanuel Macron,relative,Q29869162,Laurence Auzière-Jourdan
+Q3052772,Emmanuel Macron,relative,Q29870480,Sébastien Auzière
+Q3052772,Emmanuel Macron,sibling,Q29860422,Estelle Macron
+Q3052772,Emmanuel Macron,sibling,Q29889211,Laurent Macron
+Q3052772,Emmanuel Macron,spouse,Q21511883,Brigitte Macron
+Q312785,Albert Pintat,relative,Q63033620,Josep Pintat Forné
+Q329,Nicolas Sarkozy,child,Q16338096,Giulia Sarkozy
+Q329,Nicolas Sarkozy,child,Q16338100,Pierre Sarkozy
+Q329,Nicolas Sarkozy,child,Q23034454,Louis Sarkozy
+Q329,Nicolas Sarkozy,child,Q946961,Jean Sarkozy
+Q329,Nicolas Sarkozy,father,Q3898147,Paul Sarkozy
+Q329,Nicolas Sarkozy,mother,Q16338080,Andrée Mallah
+Q329,Nicolas Sarkozy,sibling,Q16338110,François Sarkozy
+Q329,Nicolas Sarkozy,sibling,Q3120172,Guillaume Sarkozy
+Q329,Nicolas Sarkozy,sibling,Q3351364,Olivier Sarkozy
+Q329,Nicolas Sarkozy,sibling,Q48827891,Caroline Sarkozy
+Q329,Nicolas Sarkozy,spouse,Q143945,Carla Bruni
+Q329,Nicolas Sarkozy,spouse,Q16338091,Marie-Dominique Culioli
+Q329,Nicolas Sarkozy,spouse,Q235177,Cécilia Attias
