@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Andorra",
+      "id": "Q228"
+    },
+    "cabinet": {
+      "id": "Q65938327",
+      "start": "2019-05-22",
+      "parent": "Q5419813"
+    },
+    "source": {
+        "url":   "https://www.govern.ad/el-govern",
+        "title": "El Govern | Composició del Govern d'Andorra",
+        "lang":  {
+            "code": "ca",
+            "wikidata": "Q7026"
+        }
+    },
+    "agent": "every-politican-scrapers/andorra-cabinet"
+}
