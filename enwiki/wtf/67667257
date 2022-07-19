@@ -1,0 +1,88 @@
+{
+  "title": "Jordi Gallardo",
+  "pageID": 67667257,
+  "categories": [
+    "Living people",
+    "1976 births",
+    "Government ministers of Andorra",
+    "University of Lleida alumni",
+    "Liberal Party of Andorra politicians",
+    "21st-century politicians",
+    "People from Andorra la Vella",
+    "University of Navarra alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jordi Gallardo (born 23 March 1976 in Andorra La Vella) is the Minister of Economy in Andorra since 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Andorra La Vella"
+                },
+                {
+                  "type": "internal",
+                  "page": "Andorra"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Jordi Gallardo"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Jordi_Gallardo.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Jordi_Gallardo.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Jordi_Gallardo.jpg",
+          "caption": "Jordi Gallardo",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Andorran politician",
+          "template": "short description"
+        },
+        {
+          "date": "July 2021",
+          "template": "one source"
+        },
+        {
+          "date": "August 2021",
+          "template": "expand spanish"
+        }
+      ],
+      "references": [
+        {
+          "title": "Andorra MOE",
+          "url": "https://www.govern.ad/ministeri-de-presidencia-economia-i-empresa",
+          "website": "Govern.ad",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "andorra-bio-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "title": "Enric Tarrado Vives",
+  "pageID": 61488411,
+  "categories": [
+    "1962 births",
+    "Living people",
+    "Andorran diplomats",
+    "Andorran politicians",
+    "Ambassadors of Andorra to Liechtenstein",
+    "Ambassadors of Andorra to Monaco",
+    "Ambassadors of Andorra to San Marino",
+    "Ambassadors of Andorra to Switzerland",
+    "Permanent Representatives of Andorra to the United Nations"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Enric Tarrado Vives is an Andorran politician and former ambassador.",
+              "links": [
+                {
+                  "text": "Andorran",
+                  "type": "internal",
+                  "page": "Andorra"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Enric Tarrado Vives"
+                ]
+              }
+            },
+            {
+              "text": "From 2005 until 2009 he was a member of the Consell General, the legislative branch of Andorra, where he was chairman of the fraction of the party \"Andorran Democratic Centre + Segle XXI\".",
+              "links": [
+                {
+                  "text": "Consell General",
+                  "type": "internal",
+                  "page": "General Council (Andorra)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Andorran Democratic Centre"
+                }
+              ]
+            },
+            {
+              "text": "In 2019 he stood again for the Consell Generall as the leader of the \"Andorran Democratic Centre and Independents\" in the parish Andorra la Vella, but was defeated by the party d'Acord by 12 votes (0.26 % point).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Andorra la Vella"
+                },
+                {
+                  "text": "d'Acord",
+                  "type": "internal",
+                  "page": "d'Acord"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From 2012 until his decision to stand in the 2019 elections, he was ambassador of Andorra to Liechtenstein, Monaco, San Marino and Switzerland, as well as permanent representative of Andorra to the United Nations Office at Geneva.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United Nations"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Andorran politician",
+          "template": "short description"
+        },
+        {
+          "year": "1962",
+          "month": "08",
+          "day": "05",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "embed": {
+            "text": "yes"
+          },
+          "ambassador_from5": {
+            "text": "Andorran"
+          },
+          "country5": {
+            "text": "Liechtenstein"
+          },
+          "term_start5": {
+            "text": "14 June 2012"
+          },
+          "term_end5": {
+            "text": "February 2019"
+          },
+          "office1": {
+            "text": "Permanent Representative of Andorra to United Nations Office and other International Organisations in Geneva"
+          },
+          "term_start1": {
+            "text": "2012",
+            "number": 2012
+          },
+          "term_end1": {
+            "text": "February 2019"
+          },
+          "ambassador_from2": {
+            "text": "Andorran"
+          },
+          "country2": {
+            "text": "San Marino"
+          },
+          "term_start2": {
+            "text": "2012",
+            "number": 2012
+          },
+          "term_end2": {
+            "text": "February 2019"
+          },
+          "ambassador_from3": {
+            "text": "Andorran"
+          },
+          "country3": {
+            "text": "Monaco"
+          },
+          "term_start3": {
+            "text": "2012",
+            "number": 2012
+          },
+          "term_end3": {
+            "text": "February 2019"
+          },
+          "ambassador_from4": {
+            "text": "Andorran"
+          },
+          "country4": {
+            "text": "Switzerland"
+          },
+          "term_start4": {
+            "text": "2012",
+            "number": 2012
+          },
+          "term_end4": {
+            "text": "February 2019"
+          }
+        },
+        {
+          "name": {
+            "text": "Antonella Benedettini"
+          },
+          "constituency_mp": {
+            "text": "Andorran Democratic Centre",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Andorran Democratic Centre"
+              }
+            ]
+          },
+          "parliament": {
+            "text": "Andorran"
+          },
+          "term_start": {
+            "text": "10 March 1997"
+          },
+          "term_end": {
+            "text": "4 March 2001"
+          },
+          "constituency_mp1": {
+            "text": "Andorran Democratic Centre + Segle XXI",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Andorran Democratic Centre"
+              }
+            ]
+          },
+          "parliament1": {
+            "text": "Andorran"
+          },
+          "term_start1": {
+            "text": "25 April 2005"
+          },
+          "term_end1": {
+            "text": "2 March 2009"
+          },
+          "party": {
+            "text": "Andorran Democratic Centre",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Andorran Democratic Centre"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "August 5, 1962"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.consellgeneral.ad/ca/arxiu/arxiu-de-lleis-i-textos-aprovats-en-legislatures-anteriors/iv-legislatura-2005-2009/consellers-generals-2005-2009/enric-tarrado-vives",
+          "work": "Consell General",
+          "title": "Enric Tarrado Vives",
+          "accessdate": "10 August 2019",
+          "language": "Catalan",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.eleccions.ad/index",
+          "work": "Government of Andorra",
+          "accessdate": "10 August 2019",
+          "title": "Detall dels resultats",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.govern.ad/afers-exteriors/item/10135-enric-tarrado-cessa-com-a-ambaixador-a-la-suissa-monaco-san-marino-liechtenstein-i-representant-permanent-a-l-oficina-de-les-nacions-unides-a-ginebra",
+          "language": "Catalan",
+          "accessdate": "10 August 2019",
+          "date": "27 February 2019",
+          "title": "Enric Tarrado cessa com a ambaixador a la Suïssa, Mònaco, San Marino, Liechtenstein i representant permanent a l’Oficina de les Nacions Unides a Ginebra",
+          "work": "Government of Andorra",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "work": "Government of Liechtenstein",
+          "date": "21 December 2015",
+          "accessdate": "10 August 2019",
+          "url": "https://www.regierung.li/files/attachments/Liste_Dipl__Corps__englisch__Internet-Version.pdf?t=635666646528431599",
+          "title": "Diplomatic missions to the Principality of Liechtenstein",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}
